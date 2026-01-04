@@ -2,8 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=1EA7FD&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+HN+Sanjay+👨🏻‍💻;" />
 </h1>
 
-## Hi I 'm HN Sanjay👨🏻‍💻
-Full-stack developer — building MERN apps, backend APIs, and automation-focused solutions. Passionate about debugging, clean architecture, and learning by shipping real projects, DevOps Learning in progress and sometimes Youtuber.
+## HN Sanjay👨🏻‍💻
+Full-stack developer — building MERN apps, backend APIs, and automation-focused solutions. Passionate about debugging, clean architecture, and learning by shipping real projects, DevOps Learning in progress and Sometimes Youtuber.
+
 Full Stack 👨🏻‍💻 | Learning DevOps | YouTuber 🎥 |
 
 ## 🕊️ Socials:
