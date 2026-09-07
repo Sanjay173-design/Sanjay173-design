@@ -77,16 +77,3 @@ I'm a **Full-Stack Developer** who enjoys building real-world applications, back
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ---
-
-## What I Like Building
-
-```text
-Full-Stack Applications
-        ↓
-Backend APIs & Services
-        ↓
-Database Architecture
-        ↓
-Cloud Deployment
-        ↓
-Automation & Integrations
