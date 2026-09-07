@@ -1,15 +1,14 @@
 <h1 align="center">
-  Hi 👋, I'm HN Sanjay
+  Hola, I'M HN Sanjay 
 </h1>
-
-<h3 align="center">
-  Full-Stack Developer | MERN | Backend APIs | Cloud & Automation
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F5F5F5&size=35&center=true&vCenter=true&width=600&height=70&duration=2500&lines=Full-Stack+Developer+👨🏻‍💻;MERN+Stack+Developer+🚀;Backend+%26+API+Builder+⚙️;Cloud+%26+Automation+Enthusiast+☁️;Sometimes+YouTuber+🎥" />
 </p>
 
+<h3 align="center">
+  Full-Stack Developer | MERN | Backend APIs | Cloud & Automation
+</h3>
 ---
 
 ## 👨🏻‍💻 About Me
