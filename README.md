@@ -3,7 +3,7 @@
 </h1>
 
 ## HN Sanjay👨🏻‍💻
-Full-stack developer — building MERN apps, backend APIs, and automation-focused solutions. Passionate about debugging, clean architecture, and learning by shipping real projects and Sometimes Youtuber.
+Full-stack developer — building MERN apps, backend APIs, and automation-focused solutions. Passionate about debugging, clean architecture, learning by shipping real projects and Sometimes Youtuber.
 
 Full Stack developer 👨🏻‍💻 |  Learning DevOps ⚙️ |  YouTuber 🎥 
 
