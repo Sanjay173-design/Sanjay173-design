@@ -3,49 +3,41 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F5F5F5&size=35&center=true&vCenter=true&width=600&height=70&duration=2500&lines=Full-Stack+Developer+👨🏻‍💻;MERN+Stack+Developer+🚀;Backend+%26+API+Builder+⚙️;Cloud+%26+Automation+Enthusiast+☁️;Sometimes+YouTuber+🎥" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F5F5F5&size=35&center=true&vCenter=true&width=600&height=70&duration=2500&lines=Full-Stack+Developer+👨🏻‍💻;MERN+Stack+Developer;Backend+%26+API+Builder+⚙️;Cloud+%26+Automation+Enthusiast+☁️;Sometimes+YouTuber+🎥" />
 </p>
 
 <h3 align="center">
   Full-Stack Developer | MERN | Backend APIs | Cloud & Automation
 </h3>
----
 
 ## 👨🏻‍💻 About Me
 
 I'm a **Full-Stack Developer** who enjoys building real-world applications, backend APIs, and automation-focused solutions.
 
-- 🚀 Building applications with the **MERN stack**
-- ⚙️ Developing **backend APIs and services**
-- ☁️ Exploring **AWS, Azure and cloud deployment**
-- 🤖 Interested in **automation and workflow solutions**
-- 🐛 I genuinely enjoy **debugging and solving problems**
-- 🧠 Learning by **building and shipping real projects**
-- 🎥 Sometimes I make things for **YouTube**
+- Developing **backend APIs and services**
+- Exploring **AWS, Azure and cloud deployment**
+- I genuinely enjoy **debugging and solving problems**
+- Sometimes I make things for **YouTube**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -53,13 +45,14 @@ I'm a **Full-Stack Developer** who enjoys building real-world applications, back
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
-### ☁️ Cloud & Deployment
+### Cloud & Deployment
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
@@ -68,7 +61,7 @@ I'm a **Full-Stack Developer** who enjoys building real-world applications, back
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
 
-### 🧪 Tools & DevOps
+### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -78,18 +71,14 @@ I'm a **Full-Stack Developer** who enjoys building real-world applications, back
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=black)
 
-### 📊 Data & Design
+### Design
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ---
 
-## 🚀 What I Like Building
+## What I Like Building
 
 ```text
 Full-Stack Applications
